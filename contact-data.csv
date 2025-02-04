@@ -1,7 +1,9 @@
-﻿firstName;lastName;birthdate;email;phone;street1;street2;city;stateProvince;postalCode;country
-Ade;Karsudi;06/12/2000;ade@gmail.com;124124124;Jln. Raya 1;Jln. Raya 7;Yogyakarta;Yogyakarta;12345;Indonesia
-Budi;Setia;07/03/2000;buds@gmail.com;14141234214;Jln. Raya 2;Jln. Raya 8;Jakarta Selatan;Jakarta;13524;Indonesia
-Lukman;Sardi;23/10/1997;lusar@gmail.com;1234124124;Jln. Raya 3;Jln. Raya 9;Tangerang Selatan;Banten;12453;Indonesia
-Riska;Amalia;11/07/1999;risa@gmail.com;3523523523;Jln. Raya 4;Jln. Raya 10;Bandung;Jawa Barat;15243;Indonesia
-Danang;Darto;28/09/2002;danang@gmail.com;2353623114;Jln. Raya 5;Jln. Raya 11;Denpasar;Bali;51423;Indonesia
-Lisa;Putri;19/05/1995;lisa@gmail.com;35241241412;Jln. Raya 6;Jln. Raya 12;Surabaya;Jawa Timur;54123;Indonesia
+firstName,lastName,birthdate,email,phone,street1,street2,city,stateProvince,postalCode,country
+Henry,Skalitz,1998-10-15,henry@fake.com,8005551234,1 Mana Ave,Unit A,Radiant City,KS,12345,USA
+Radzig,Kobyla,1992-03-28,koby@fake.com,8005555678,2 Firewalk Rd,Suite B,Inferno City,KS,12346,USA
+Hanush,Rattay,1977-05-02,pudge.butcher@fake.com,8005552345,3 Flesh Blvd,Floor 3,Goreville,KS,12347,USA
+Sigismund,Bohemia,1995-11-22,riki.stealth@fake.com,8005556789,4 Smoke St,Apartment 2,Shadowland,KS,12348,USA
+Hans,Capon,1987-01-10,tinker.inventor@fake.com,8005553456,5 Gadget Ave,Building 4,Techropolis,KS,12349,USA
+Godwin,Black,1985-06-14,bristle.back@fake.com,8005557890,6 Spines Rd,Warehouse 7,Quilltown,KS,12350,USA
+Martin,Skalitz,1986-12-01,invoker.kael@fake.com,8005554321,7 Arcane Blvd,Floor 8,Stormhold,KS,12351,USA
+Theresha,Thunder,1993-08-21,zeus.thunder@fake.com,8005551122,8 Skyhigh Ave,Penthouse 9,Cloud City,KS,12352,USA
